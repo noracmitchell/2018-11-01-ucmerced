@@ -242,7 +242,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   Here are links to the data we will be using for the workshop.
   <ul>
     <li>Day 1 Unix Shell Data: <a href="http://swcarpentry.github.io/shell-novice/data/data-shell.zip" download>shell-novice-data.zip</a></li>
-    <li>Day 1/Day 2 R Data: <a href="http://swcarpentry.github.io/r-novice-inflammation/data/r-novice-inflammation-data.zip" download>Inflammation Dataset</a></li> (CTRL + S, right mouse click -> “Save as”, or File -> “Save page as”)
+    <li>Day 1/Day 2 R Data: <a href="http://swcarpentry.github.io/r-novice-inflammation/data/r-novice-inflammation-data.zip" download>Inflammation Dataset</a></li> 
   </ul>
 </p>
 
