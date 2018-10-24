@@ -231,6 +231,20 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   We will use this <a href="{{page.collaborative_notes}}">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
 </p>
 {% endif %}
+<p>
+  We will use <a href="https://b.socrative.com/login/student/">socrative</a> for assessing understanding. Room name: <b>UCMERCED</b>.
+</p>
+<hr/>
+
+<p id="data">
+<strong>Data:</strong>
+  <br/>
+  Here are links to the data we will be using for the workshop.
+  <ul>
+    <li>Day 1 Unix Shell Data: <a href="http://swcarpentry.github.io/shell-novice/data/data-shell.zip" download>shell-novice-data.zip</a></li>
+    <li>Day 1/Day 2 R Data: <a href="http://swcarpentry.github.io/r-novice-inflammation/data/r-novice-inflammation-data.zip" download>Inflammation Dataset</a></li> (CTRL + S, right mouse click -> “Save as”, or File -> “Save page as”)
+  </ul>
+</p>
 
 <hr/>
 
